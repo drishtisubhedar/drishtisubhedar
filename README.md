@@ -1,7 +1,7 @@
 ### Hi👋, I am Drishti Subhedar
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/e1/b4/97/e1b49777272df78881752cba915acf01.jpg" width="100"/>
+  <img src="https://i.pinimg.com/564x/e1/b4/97/e1b49777272df78881752cba915acf01.jpg"/>
 </div>
 
 ### 🔥My Stats :
