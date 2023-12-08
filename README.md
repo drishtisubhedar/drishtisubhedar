@@ -1,5 +1,9 @@
 ### Hi👋, I am Drishti Subhedar
 
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/564x/e1/b4/97/e1b49777272df78881752cba915acf01.jpg" width="100"/>
+</div>
+
 ### 🔥My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drishtisubhedar&theme=dark&background=000000)](https://git.io/streak-stats)
 
