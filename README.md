@@ -5,7 +5,7 @@
 </div>
 
 ### 🔥My Stats :
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=drishtisubhedar&theme=highcontrast)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drishtisubhedar&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtisubhedar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
