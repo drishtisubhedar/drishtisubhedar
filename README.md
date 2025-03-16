@@ -1,16 +1,10 @@
 ### Hello👋, I am Drishti Subhedar!
 
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/736x/52/ca/49/52ca49ba08c6c14ed904a5d577a98a19.jpg"/>
-</div>
-
-### 🔥My Stats :
-![Github Stats](https://github-readme-stats.vercel.app/api?username=drishtisubhedar&theme=highcontrast)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drishtisubhedar&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtisubhedar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Socials :
+<div id="header" align="left">
+  <img src="https://i.pinimg.com/736x/52/ca/49/52ca49ba08c6c14ed904a5d577a98a19.jpg"
+    height="200" width="300"/>
+  
+  ### Socials :
   <div id="badges">
   <a href="https://www.linkedin.com/in/drishti-subhedar-a364b8241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,6 +13,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
+### 🔥My Stats :
+![Github Stats](https://github-readme-stats.vercel.app/api?username=drishtisubhedar&theme=highcontrast)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drishtisubhedar&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtisubhedar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **drishtisubhedar/drishtisubhedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
